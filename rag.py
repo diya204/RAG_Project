@@ -49,7 +49,7 @@ for i, doc in enumerate(results, start=1):
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",
-    google_api_key="AQ.Ab8RN6JubZ25m2McACKPFbLKBVAk1iSbeF_id5pQgXQ2K13juQ"
+    # google_api_key="AQ.Ab8RN6JubZ25m2McACKPFbLKBVAk1iSbeF_id5pQgXQ2K13juQ"
 )
 
 context = "\n".join([doc.page_content for doc in results])
