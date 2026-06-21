@@ -122,26 +122,6 @@ Supervised Learning is a machine learning approach where a model learns from lab
 
 ---
 
-## 📸 Project Demo
-
-Add screenshots here:
-
-- Code Screenshot
-- Terminal Output
-- ChromaDB Creation
-- Final Answer Generation
-
----
-
-## 👨‍💻 Author
-
-Diya Agrawal
-
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
-
----
-
 ## ⭐ Future Improvements
 
 - Streamlit Frontend
